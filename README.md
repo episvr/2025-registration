@@ -14,6 +14,22 @@
 
 也可以参考 [第一课](https://www.bilibili.com/video/BV1GwxNzmEB2/) 和 [Git 可视化网站](https://learngitbranching.js.org/?locale=zh_CN) 进行学习。
 
+## 🛠️ 本地开发与构建
+
+```shell
+# 1. 安装项目依赖
+npm install
+
+# 2. 启动本地开发服务器 (实时预览修改)
+npm run dev
+
+# 3. 构建生产版本 (用于部署)
+npm run build
+
+# 4. 预览构建产物
+npm run preview
+```
+
 ## 🚀 快速开始
 
 1. Fork 本仓库
