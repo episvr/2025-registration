@@ -1,0 +1,9 @@
+{
+  "name": "Kaslana", 
+  "bio": "我是啥笔二次元",
+  "tags": ["Unity", "C#", "C++"], 
+  "social": {
+    "github": "Kaslana-423",
+    "blog": "https://developer.unity.cn/u/ji-li-yao"
+  }
+}
